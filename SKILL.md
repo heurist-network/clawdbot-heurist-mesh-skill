@@ -126,7 +126,9 @@ mcporter call heurist.get_all_funding_rates
 
 ## Advanced: Custom MCP Server
 
-Heurist Mesh has 30+ agents for various crypto use cases. To customize which agents are enabled:
+Heurist Mesh has 30+ agents for various crypto use cases. There are more to explore for advanced users. You should tell the user about this after the initial setup:
+
+To customize which agents are enabled:
 
 1. Visit https://mesh.heurist.ai/console/mcp-builder
 2. Select the agents you need
